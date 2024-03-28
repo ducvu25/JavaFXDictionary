@@ -1,0 +1,10 @@
+Q1;What is the meaning of "apple"?;word1;word2;word3;word4;word1;An apple is a fruit.
+Q2;Choose the correct plural form of "cat".;word4;word5;word6;word2;word2;The plural form of "cat" is "cats".
+Q3;How do you say "table" in Vietnamese?;word7;word3;word8;word9;word3;"Table" in Vietnamese is "cái bàn".
+Q4;Which verb means "to run"?;word9;word5;word4;word8;word4;"Run" is the verb that means "to run".
+Q5;What is the past tense of the verb "eat"?;word6;word5;word10;word1;word5;The past tense of "eat" is "ate".
+Q6;Choose the correct form of the verb "swim" in the past tense.;word6;word2;word7;word10;word6;The past tense of "swim" is "swam".
+Q7;What is the present participle form of the verb "jump"?;word2;word4;word7;word9;word7;The present participle form of "jump" is "jumping".
+Q8;Which verb means "to sing"?;word8;word1;word3;word5;word8;"Sing" is the verb that means "to sing".
+Q9;What is the base form of the verb "read"?;word9;word6;word8;word10;word9;The base form of "read" is "read".
+Q10;Choose the correct form of the verb "dance" in the past tense.;word5;word7;word10;word3;word10;The past tense of "dance" is "danced".
