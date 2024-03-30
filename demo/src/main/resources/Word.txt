@@ -2,9 +2,9 @@ word1;apple;/ˈæpəl/;qua tao;I like eating apples;apple;apples
 word2;cat;/kæt/;con meo;The cat is sleeping;cat;cats
 word3;table;/ˈteɪbəl/;cai ban;I put my books on the table;table;tables
 word4;run;/rʌn/;chay;He likes to run in the morning;run;ran;run
-word5;eat;/iːt/;an;She eats breakfast every day;eat;ate;eaten
+word5;eat;/i�?t/;an;She eats breakfast every day;eat;ate;eaten
 word6;swim;/swɪm/;boi;They swim in the pool;swim;swam;swum
 word7;jump;/dʒʌmp/;nhay;The children are jumping on the trampoline;jump;jumped;jumped
 word8;sing;/sɪŋ/;hat;She sings beautifully;sing;sang;sung
-word9;read;/riːd/;doc;He spends his free time reading books;read;read;read
+word9;read;/ri�?d/;doc;He spends his free time reading books;read;read;read
 word10;dance;/dæns/;nhay mua;They enjoy dancing at parties;dance;danced;danced

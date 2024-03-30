@@ -129,4 +129,7 @@ public class Question {
             System.out.println((char) ('A' + i) + ". " + options[i]);
         }
     }
+    public String to_String(){
+        return ID + ";" + question + ";" + idA + ";" + idB + ";" + idC + ";" + idD + ";" + key + ";" + explain;
+    }
 }

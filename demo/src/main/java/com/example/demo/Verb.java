@@ -40,15 +40,6 @@ public class Verb extends Word {
 
     @Override
     public String toString() {
-        return "Verb{" +
-                "ID='" + ID + '\'' +
-                ", word='" + word + '\'' +
-                ", pronounce='" + pronounce + '\'' +
-                ", means='" + means + '\'' +
-                ", eg='" + eg + '\'' +
-                ", v1='" + v1 + '\'' +
-                ", v2='" + v2 + '\'' +
-                ", v3='" + v3 + '\'' +
-                '}';
+        return ID + ';' + word + ';' + pronounce + ';' +  means + ';' + eg + ";" + v1 + ';' + v2 + ';' + v3 ;
     }
 }
